@@ -1,0 +1,1 @@
+g++ -std=gnu++0x Compiler.cpp Parser.cpp Scanner.cpp TreeNode.cpp DotGeneration.cpp -o Compiler

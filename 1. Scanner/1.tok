@@ -1,0 +1,17 @@
+RPOGRAM
+VAR
+iden(X)
+AS
+INT
+SC(;)
+BEGIN
+iden(X)
+ASGN(:=)
+READINT
+SC(;)
+WRITEINT
+num(2)
+MULTIPLICATIVE(*)
+iden(X)
+SC(;)
+END

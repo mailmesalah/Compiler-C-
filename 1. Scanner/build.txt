@@ -1,0 +1,1 @@
+g++ -std=gnu++0x Scanner.cpp -o Scanner
